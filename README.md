@@ -22,12 +22,6 @@ Special Words - Includes curated special word lists
 Prerequisites
 Python 3.6 or higher
 
-# Steps:
-Clone the repository:
-
-git clone https://github.com/yourusername/word-scramble-game.git
-cd word-scramble-game
-
 # Run the game:
 python scramble.py
 No additional dependencies required! The game uses only Python's standard library.
